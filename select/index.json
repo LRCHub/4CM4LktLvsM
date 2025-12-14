@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "新妻鏡",
+  "base_artist": "二葉あき子",
+  "createdAt": "2025-12-14T11:29:29.786283Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新妻鏡",
+      "artist": "二葉あき子&霧島昇",
+      "has_synced": false,
+      "path": "select/pl_01_新妻鏡_二葉あき子&霧島昇.txt"
+    }
+  ]
+}
